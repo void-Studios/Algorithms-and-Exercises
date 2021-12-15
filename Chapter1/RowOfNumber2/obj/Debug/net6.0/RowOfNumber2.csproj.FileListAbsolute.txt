@@ -1,0 +1,15 @@
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber2/bin/Debug/net6.0/RowOfNumber2
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber2/bin/Debug/net6.0/RowOfNumber2.deps.json
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber2/bin/Debug/net6.0/RowOfNumber2.runtimeconfig.json
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber2/bin/Debug/net6.0/RowOfNumber2.dll
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber2/bin/Debug/net6.0/ref/RowOfNumber2.dll
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber2/bin/Debug/net6.0/RowOfNumber2.pdb
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber2/obj/Debug/net6.0/RowOfNumber2.csproj.AssemblyReference.cache
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber2/obj/Debug/net6.0/RowOfNumber2.GeneratedMSBuildEditorConfig.editorconfig
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber2/obj/Debug/net6.0/RowOfNumber2.AssemblyInfoInputs.cache
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber2/obj/Debug/net6.0/RowOfNumber2.AssemblyInfo.cs
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber2/obj/Debug/net6.0/RowOfNumber2.csproj.CoreCompileInputs.cache
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber2/obj/Debug/net6.0/RowOfNumber2.dll
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber2/obj/Debug/net6.0/ref/RowOfNumber2.dll
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber2/obj/Debug/net6.0/RowOfNumber2.pdb
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber2/obj/Debug/net6.0/RowOfNumber2.genruntimeconfig.cache
