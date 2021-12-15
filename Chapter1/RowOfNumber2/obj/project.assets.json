@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "C:\\Users\\martj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber2/RowOfNumber2.csproj",
+      "projectUniqueName": "F:\\Csharp\\1400Exercises\\Algorithms-and-Exercises\\Chapter1\\RowOfNumber2\\RowOfNumber2.csproj",
       "projectName": "RowOfNumber2",
-      "projectPath": "/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber2/RowOfNumber2.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber2/obj/",
+      "projectPath": "F:\\Csharp\\1400Exercises\\Algorithms-and-Exercises\\Chapter1\\RowOfNumber2\\RowOfNumber2.csproj",
+      "packagesPath": "C:\\Users\\martj\\.nuget\\packages\\",
+      "outputPath": "F:\\Csharp\\1400Exercises\\Algorithms-and-Exercises\\Chapter1\\RowOfNumber2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\martj\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
