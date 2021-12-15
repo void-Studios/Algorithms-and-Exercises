@@ -1,0 +1,15 @@
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber/bin/Debug/net6.0/RowOfNumber
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber/bin/Debug/net6.0/RowOfNumber.deps.json
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber/bin/Debug/net6.0/RowOfNumber.runtimeconfig.json
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber/bin/Debug/net6.0/RowOfNumber.dll
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber/bin/Debug/net6.0/ref/RowOfNumber.dll
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber/bin/Debug/net6.0/RowOfNumber.pdb
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber/obj/Debug/net6.0/RowOfNumber.csproj.AssemblyReference.cache
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber/obj/Debug/net6.0/RowOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber/obj/Debug/net6.0/RowOfNumber.AssemblyInfoInputs.cache
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber/obj/Debug/net6.0/RowOfNumber.AssemblyInfo.cs
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber/obj/Debug/net6.0/RowOfNumber.csproj.CoreCompileInputs.cache
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber/obj/Debug/net6.0/RowOfNumber.dll
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber/obj/Debug/net6.0/ref/RowOfNumber.dll
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber/obj/Debug/net6.0/RowOfNumber.pdb
+/media/jorge/BackupJorge1/Csharp/1400Exercises/Algorithms-and-Exercises/Chapter1/RowOfNumber/obj/Debug/net6.0/RowOfNumber.genruntimeconfig.cache

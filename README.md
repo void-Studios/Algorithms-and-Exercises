@@ -1,2 +1,3 @@
 # Algorithms-and-Exercises
-A repository for practice C# 
+##  Chapter 1 - Input and Output from the console 
+
