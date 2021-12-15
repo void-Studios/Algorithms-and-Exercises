@@ -1,0 +1,15 @@
+F:\Csharp\1400Exercises\Algorithms-and-Exercises\Chapter1\fromConsole1\obj\Debug\net6.0\fromConsole1.csproj.AssemblyReference.cache
+F:\Csharp\1400Exercises\Algorithms-and-Exercises\Chapter1\fromConsole1\obj\Debug\net6.0\fromConsole1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\1400Exercises\Algorithms-and-Exercises\Chapter1\fromConsole1\obj\Debug\net6.0\fromConsole1.AssemblyInfoInputs.cache
+F:\Csharp\1400Exercises\Algorithms-and-Exercises\Chapter1\fromConsole1\obj\Debug\net6.0\fromConsole1.AssemblyInfo.cs
+F:\Csharp\1400Exercises\Algorithms-and-Exercises\Chapter1\fromConsole1\obj\Debug\net6.0\fromConsole1.csproj.CoreCompileInputs.cache
+F:\Csharp\1400Exercises\Algorithms-and-Exercises\Chapter1\fromConsole1\bin\Debug\net6.0\fromConsole1.exe
+F:\Csharp\1400Exercises\Algorithms-and-Exercises\Chapter1\fromConsole1\bin\Debug\net6.0\fromConsole1.deps.json
+F:\Csharp\1400Exercises\Algorithms-and-Exercises\Chapter1\fromConsole1\bin\Debug\net6.0\fromConsole1.runtimeconfig.json
+F:\Csharp\1400Exercises\Algorithms-and-Exercises\Chapter1\fromConsole1\bin\Debug\net6.0\fromConsole1.dll
+F:\Csharp\1400Exercises\Algorithms-and-Exercises\Chapter1\fromConsole1\bin\Debug\net6.0\ref\fromConsole1.dll
+F:\Csharp\1400Exercises\Algorithms-and-Exercises\Chapter1\fromConsole1\bin\Debug\net6.0\fromConsole1.pdb
+F:\Csharp\1400Exercises\Algorithms-and-Exercises\Chapter1\fromConsole1\obj\Debug\net6.0\fromConsole1.dll
+F:\Csharp\1400Exercises\Algorithms-and-Exercises\Chapter1\fromConsole1\obj\Debug\net6.0\ref\fromConsole1.dll
+F:\Csharp\1400Exercises\Algorithms-and-Exercises\Chapter1\fromConsole1\obj\Debug\net6.0\fromConsole1.pdb
+F:\Csharp\1400Exercises\Algorithms-and-Exercises\Chapter1\fromConsole1\obj\Debug\net6.0\fromConsole1.genruntimeconfig.cache
