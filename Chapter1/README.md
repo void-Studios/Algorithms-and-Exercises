@@ -11,7 +11,7 @@ Check the program [answer](https://github.com/void-Studios/Algorithms-and-Exerci
 ---
 ### 3. Reading numbers from the console
 Introduce from the console the numbers 50 and 10 separately and then use a conditional to exit the program if the user is in the right range.
-check the program [answer](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/FromConsole/FromConsole.cs)
+check the program [answer](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/fromConsole1/FromConsole.cs)
 
 ---
 ### 4. Reading more numbers
@@ -19,5 +19,7 @@ Introduce from the console the numbers between 1 and 22 using spaces between the
 > Type your three numbers: 5  10 21
 >
 > Your numbers are 5 10 and 21 they are in the right range.
+
+Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise4/Exercise4.cs)
 
 ---
