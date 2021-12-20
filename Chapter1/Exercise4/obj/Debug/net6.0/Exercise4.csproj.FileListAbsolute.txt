@@ -1,0 +1,15 @@
+/home/jorge/Documents/netConsoles/Algorithms-and-Exercises/Chapter1/Exercise4/obj/Debug/net6.0/Exercise4.csproj.AssemblyReference.cache
+/home/jorge/Documents/netConsoles/Algorithms-and-Exercises/Chapter1/Exercise4/obj/Debug/net6.0/Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge/Documents/netConsoles/Algorithms-and-Exercises/Chapter1/Exercise4/obj/Debug/net6.0/Exercise4.AssemblyInfoInputs.cache
+/home/jorge/Documents/netConsoles/Algorithms-and-Exercises/Chapter1/Exercise4/obj/Debug/net6.0/Exercise4.AssemblyInfo.cs
+/home/jorge/Documents/netConsoles/Algorithms-and-Exercises/Chapter1/Exercise4/obj/Debug/net6.0/Exercise4.csproj.CoreCompileInputs.cache
+/home/jorge/Documents/netConsoles/Algorithms-and-Exercises/Chapter1/Exercise4/bin/Debug/net6.0/Exercise4
+/home/jorge/Documents/netConsoles/Algorithms-and-Exercises/Chapter1/Exercise4/bin/Debug/net6.0/Exercise4.deps.json
+/home/jorge/Documents/netConsoles/Algorithms-and-Exercises/Chapter1/Exercise4/bin/Debug/net6.0/Exercise4.runtimeconfig.json
+/home/jorge/Documents/netConsoles/Algorithms-and-Exercises/Chapter1/Exercise4/bin/Debug/net6.0/Exercise4.dll
+/home/jorge/Documents/netConsoles/Algorithms-and-Exercises/Chapter1/Exercise4/bin/Debug/net6.0/ref/Exercise4.dll
+/home/jorge/Documents/netConsoles/Algorithms-and-Exercises/Chapter1/Exercise4/bin/Debug/net6.0/Exercise4.pdb
+/home/jorge/Documents/netConsoles/Algorithms-and-Exercises/Chapter1/Exercise4/obj/Debug/net6.0/Exercise4.dll
+/home/jorge/Documents/netConsoles/Algorithms-and-Exercises/Chapter1/Exercise4/obj/Debug/net6.0/ref/Exercise4.dll
+/home/jorge/Documents/netConsoles/Algorithms-and-Exercises/Chapter1/Exercise4/obj/Debug/net6.0/Exercise4.pdb
+/home/jorge/Documents/netConsoles/Algorithms-and-Exercises/Chapter1/Exercise4/obj/Debug/net6.0/Exercise4.genruntimeconfig.cache
