@@ -29,4 +29,12 @@ Get the following outputs in your console:
 >
 > 2
 
+Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise5/Exercise5.cs)
+
+---
+### 6. The number PI
+We know that the number PI is 3,1415926. Show in your program this number but only with three decimal. You can not use '3.142' in this exercise
+
+Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise6/Exercise6.cs)
+
 ---
