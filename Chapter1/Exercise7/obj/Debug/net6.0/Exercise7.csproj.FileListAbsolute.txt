@@ -1,0 +1,15 @@
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise7/bin/Debug/net6.0/Exercise7
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise7/bin/Debug/net6.0/Exercise7.deps.json
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise7/bin/Debug/net6.0/Exercise7.runtimeconfig.json
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise7/bin/Debug/net6.0/Exercise7.dll
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise7/bin/Debug/net6.0/ref/Exercise7.dll
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise7/bin/Debug/net6.0/Exercise7.pdb
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise7/obj/Debug/net6.0/Exercise7.csproj.AssemblyReference.cache
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise7/obj/Debug/net6.0/Exercise7.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise7/obj/Debug/net6.0/Exercise7.AssemblyInfoInputs.cache
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise7/obj/Debug/net6.0/Exercise7.AssemblyInfo.cs
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise7/obj/Debug/net6.0/Exercise7.csproj.CoreCompileInputs.cache
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise7/obj/Debug/net6.0/Exercise7.dll
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise7/obj/Debug/net6.0/ref/Exercise7.dll
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise7/obj/Debug/net6.0/Exercise7.pdb
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise7/obj/Debug/net6.0/Exercise7.genruntimeconfig.cache
