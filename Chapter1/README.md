@@ -38,7 +38,7 @@ We know that the number PI is 3,1415926. Show in your program this number but on
 Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise6/Exercise6.cs)
 
 ---
-### 6. The Logarithmic number
+### 7. The Logarithmic number
 The number e (Natural logarithm) a transcendental approximately equal to 2.71828. Introduce in your program this number to the nearest tenths. You can not use a string like '2.17'.
 
 Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise7/Exercise7.cs)
