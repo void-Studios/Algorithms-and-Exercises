@@ -23,3 +23,10 @@ Introduce from the console the numbers between 1 and 22 using spaces between the
 Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise4/Exercise4.cs)
 
 ---
+### 5. Working with spaces
+Get the following outputs in your console:
+> 1
+>
+> 2
+
+---
