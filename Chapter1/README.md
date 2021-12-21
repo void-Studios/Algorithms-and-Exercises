@@ -39,7 +39,7 @@ Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises
 
 ---
 ### 7. The Logarithmic number
-The number e (Natural logarithm) a transcendental approximately equal to 2.71828. Introduce in your program this number to the nearest tenths. You can not use a string like '2.17'.
+The number e (Natural logarithm) a transcendental approximately equal to 2.71828. Introduce in your program this number to the nearest tenths. You can not use a string like '2.7'.
 
 Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise7/Exercise7.cs)
 
