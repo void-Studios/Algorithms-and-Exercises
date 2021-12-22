@@ -50,3 +50,9 @@ Create a program for displaying the numbers entered from the keyboard. The outpu
 Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise8/Exercise8.cs)
 
 ---
+### 9 Displaying more numbers
+Create a program for displaying the numbers entered from the keyboard. After the output numbers must be preceded by the following: "Here are your numbers".
+
+Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise9/Exercise9.cs)
+
+---

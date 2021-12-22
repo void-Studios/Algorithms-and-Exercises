@@ -1,0 +1,15 @@
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise9/bin/Debug/net6.0/Exercise9
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise9/bin/Debug/net6.0/Exercise9.deps.json
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise9/bin/Debug/net6.0/Exercise9.runtimeconfig.json
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise9/bin/Debug/net6.0/Exercise9.dll
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise9/bin/Debug/net6.0/ref/Exercise9.dll
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise9/bin/Debug/net6.0/Exercise9.pdb
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise9/obj/Debug/net6.0/Exercise9.csproj.AssemblyReference.cache
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise9/obj/Debug/net6.0/Exercise9.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise9/obj/Debug/net6.0/Exercise9.AssemblyInfoInputs.cache
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise9/obj/Debug/net6.0/Exercise9.AssemblyInfo.cs
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise9/obj/Debug/net6.0/Exercise9.csproj.CoreCompileInputs.cache
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise9/obj/Debug/net6.0/Exercise9.dll
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise9/obj/Debug/net6.0/ref/Exercise9.dll
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise9/obj/Debug/net6.0/Exercise9.pdb
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise9/obj/Debug/net6.0/Exercise9.genruntimeconfig.cache
