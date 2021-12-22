@@ -44,3 +44,9 @@ The number e (Natural logarithm) a transcendental approximately equal to 2.71828
 Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise7/Exercise7.cs)
 
 ---
+### 8 Displaying numbers
+Create a program for displaying the numbers entered from the keyboard. The output number must be preceded by the following: "You have entered a number".
+
+Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise8/Exercise8.cs)
+
+---
