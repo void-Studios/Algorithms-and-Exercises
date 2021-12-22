@@ -56,3 +56,9 @@ Create a program for displaying the numbers entered from the keyboard. After the
 Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise9/Exercise9.cs)
 
 ---
+### 10 Displaying your name
+Create a program that ask for your name and show it to the console.
+
+Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise10/Exercise10.cs)
+
+---
