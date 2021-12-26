@@ -1,0 +1,15 @@
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise12/bin/Debug/net6.0/Exercise12
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise12/bin/Debug/net6.0/Exercise12.deps.json
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise12/bin/Debug/net6.0/Exercise12.runtimeconfig.json
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise12/bin/Debug/net6.0/Exercise12.dll
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise12/bin/Debug/net6.0/ref/Exercise12.dll
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise12/bin/Debug/net6.0/Exercise12.pdb
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise12/obj/Debug/net6.0/Exercise12.csproj.AssemblyReference.cache
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise12/obj/Debug/net6.0/Exercise12.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise12/obj/Debug/net6.0/Exercise12.AssemblyInfoInputs.cache
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise12/obj/Debug/net6.0/Exercise12.AssemblyInfo.cs
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise12/obj/Debug/net6.0/Exercise12.csproj.CoreCompileInputs.cache
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise12/obj/Debug/net6.0/Exercise12.dll
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise12/obj/Debug/net6.0/ref/Exercise12.dll
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise12/obj/Debug/net6.0/Exercise12.pdb
+/home/jorge/Documents/Csharp/AlgoritmosEnCSharp/Algorithms-and-Exercises/Chapter1/Exercise12/obj/Debug/net6.0/Exercise12.genruntimeconfig.cache

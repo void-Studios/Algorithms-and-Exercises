@@ -68,3 +68,9 @@ Create a program that ask the title of a soccer team and repeats their team's ti
 Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise11/Exercise11.cs)
 
 ---
+### 12 Hey and your name
+Create a program that accepts your name and then have a welcome like "hello, YOURNAME!" after the comma the program should output the name and the exclamation mark without spaces.
+
+Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise12/Exercise12.cs)
+
+---
