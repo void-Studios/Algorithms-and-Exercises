@@ -62,3 +62,9 @@ Create a program that ask for your name and show it to the console.
 Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise10/Exercise10.cs)
 
 ---
+### 11 Displaying the title 
+Create a program that ask the title of a soccer team and repeats their team's title with the words "This are the champions!".
+
+Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise11/Exercise11.cs)
+
+---
