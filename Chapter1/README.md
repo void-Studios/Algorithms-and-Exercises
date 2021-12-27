@@ -74,3 +74,13 @@ Create a program that accepts your name and then have a welcome like "hello, YOU
 Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise12/Exercise12.cs)
 
 ---
+### 13 The next and before number
+Create a program that accepts numbers from the console, the first will output the next number and then the before number, for example:
+
+>The next number of 15 is 16.
+>
+>The before number of 15 is 14.
+
+Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise13/Exercise13.cs)
+
+---
