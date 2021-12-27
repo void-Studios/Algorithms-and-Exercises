@@ -84,3 +84,9 @@ Create a program that accepts numbers from the console, the first will output th
 Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise13/Exercise13.cs)
 
 ---
+### 14 Three numbers
+Create a program that accepts entered numbers from the keyboard, the three numbers might be in one row with two spaces between them using composite formatting.
+
+Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise14/Exercise14.cs)
+
+---
