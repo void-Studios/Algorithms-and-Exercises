@@ -90,3 +90,9 @@ Create a program that accepts entered numbers from the keyboard, the three numbe
 Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise14/Exercise14.cs)
 
 ---
+### 15 Four numbers
+Create a program that accepts four numbers from the keyboard, the four numbers  might be in one row with one space between them.
+
+Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise15/Exercise15.cs)
+
+---
