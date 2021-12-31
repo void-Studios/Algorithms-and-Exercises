@@ -96,3 +96,16 @@ Create a program that accepts four numbers from the keyboard, the four numbers  
 Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise15/Exercise15.cs)
 
 ---
+### 16 Making a table 
+Create a program with the next information on the console:
+
+| A | B | C |
+|---|---|---|
+|5 10| 100 t | x 25 |
+|7 cm | 1949 v | x y |
+
+the symbols t, v, x and y are introduced from the console and must be with the other predefined types 
+
+Check the answer [here](https://github.com/void-Studios/Algorithms-and-Exercises/blob/main/Chapter1/Exercise16/Exercise16.cs)
+
+---
