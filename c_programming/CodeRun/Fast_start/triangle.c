@@ -19,14 +19,22 @@ int main(int argc, char *argv[]) {
 	int sum2 = a + c;
 	int sum3 = b + c;
 	
-	if (sum1 > c) {
-		if (sum2 > b) {
+	if(sum1 > c & sum2 > b & sum3 > a) {
+		printf("YES\n");
+	} else {
+		printf("NO\n");
+	}
+	
+	//The next lines does not pass the TEST
+	/*
+	if (sum1 > c ) {
+		if (sum2 > b ) {
 			if (sum3 > a) {
 				printf("YES \n");
 			}
 		}
 	} else {
 		printf("NO");
-	}
+	}*/
 	return 0;
 }
