@@ -1,5 +1,5 @@
 #include <stdio.h>
-//SECTION 3.2
+//SECTION 3.1
 //EXERCISE 2.0
 int main(void) {
 	float x = 125.567858f;
