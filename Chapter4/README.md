@@ -8,4 +8,5 @@ In this exercise we show the output by each of the following program fragments, 
 - The third compilation returns 1, this is an interesting compilation in C because the Binary Multiplicative division between k / j is equal to 1 but the compiler does not made this Binary operation secondly, otherwise the first step in the compiler was 17 % 8 or (i + 10) % 9 and this return 8 and the last compilation in this row is 8 / 8, that's why the output return 1.
 - The last exercise as the exercise before, the compiler made the first two parenthesis operations and then the Binary Division, the output was 0 because the remainder result was 2 and the value of 2 / 3 returns 0 the dividen is smaller than the divisor.
 
-#### Exercise 2    
+#### Exercise 2  
+If i and j are positive integers, does(-i/j) always have the same value as -(i/j)? We are justify the answer here:
