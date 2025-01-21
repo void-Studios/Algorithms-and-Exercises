@@ -10,3 +10,13 @@ In this exercise we show the output by each of the following program fragments, 
 
 #### Exercise 2  
 If i and j are positive integers, does(-i/j) always have the same value as -(i/j)? We are justify the answer here:
+
+#### Project 1
+We wrote a program that asks the user to enter a two-digit number, then prints the number with its digits reversed. A session with the program have the following appearance:
+
+> Enter a two-digit number: 28
+> The reversal is: 82
+
+You can check the algorithm of the code [Project 1](./Project1.c)
+
+#### Project 2
