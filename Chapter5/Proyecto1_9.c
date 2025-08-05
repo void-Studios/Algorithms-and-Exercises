@@ -4,20 +4,84 @@ int main(void){
 	//Writes a program that prompts the user to enter two dates and then indicates which date comes earlier on the calendar.
 	int day, month, year;
 	int day2,month2,year2;
+	printf("**** ---- ** Print your dates as: 5/8/2001 or 12/1/99 **** ---- ** \n");
 	printf("Enter first date (mm/dd/yy): ");
 	scanf("%d/%d/%d", &month,&day, &year);
 	printf("Enter your second date (mm/dd/yy): ");
 	scanf("%d/%d/%d",&month2,&day2,&year2);
 	
-	//printf("Your date is: %d/%d/%d", day, month, year);
+	printf("Your date is: %d/%d/%d DEBUGGER \n ", month, day, year);
 
-	//THE LOGIC OF KURAI SUDIOS
-	if(year < year2) {
-		if (month < month2) {
-			if(day < day2) {
-				printf("%d/%d/%d is earlier than %d/%d/%d",month,day,year,month2,day2,year2 );
-			}
+	//THE LOGIC OF YEARS IN KURAI STUDIOS
+	// THE BEGINNING
+	if(month < 13 && month < 13 && day < 31 && day2 < 31 && year > 0 && year2 > 0) {
+		printf("GOOD!\n");
+		if(year < year2 || year2 > year) {
+			if (month < month2 || month > month2 || month2 < month || month2 > month || month2 == month) {
+				if(day < day2 || day > day2 || day2 < day || day2 > day || day == day2) {
+				printf("%d/%d/%d is earlier than %d/%d/%d year condition",month,day,year,month2,day2,year2 );
+				};
+			};
+		} else if(year > year2 || year2 < year){
+				if(month < month2 || month > month2 || month2 < month || month2 > month || month2 == month){
+					if(day < day2 || day > day2 || day2 < day || day2 > day || day == day2) {
+						printf("%d/%d/%d is earlier than %d/%d/%d year condition",month2,day2,year2,month,day,year);
+					};
+				};
+		//THE LOGIC OF DAYS IN KURAI STUDIOS
+		} else if(day < day2 || day2 > day) {
+			if(month == month2 || month < month2) {
+				if(year == year2 || year < year2) {
+					printf("%d/%d/%d is earlier than %d/%d/%d Oh my god those days!",month,day,year,month2,day2,year2);
+				};
+			};
 		}
+	} else {
+		printf("Your dates are no so close to this planet!");
 	}
+	/*if(year < year2 || year2 > year) {
+		if (month < month2 || month > month2 || month2 < month || month2 > month || month2 == month) {
+			if(day < day2 || day > day2 || day2 < day || day2 > day || day == day2) {
+				printf("%d/%d/%d is earlier than %d/%d/%d year condition",month,day,year,month2,day2,year2 );
+			};
+		};
+	};
+	if(year > year2 || year2 < year) {
+		if(month < month2 || month > month2 || month2 < month || month2 > month || month2 == month){
+			if(day < day2 || day > day2 || day2 < day || day2 > day || day == day2) {
+				printf("%d/%d/%d is earlier than %d/%d/%d year condition",month2,day2,year2,month,day,year);
+			};
+		};
+	};*/
+	//THE LOGIC OF DAYS IN KURAI STUDIOS
+	if(day < day2 || day2 > day){
+		if(month == month2 || month < month2) {
+			if(year == year2 || year < year2) {
+				printf("%d/%d/%d is earlier than %d/%d/%d Oh my god those days!",month,day,year,month2,day2,year2);
+			};
+		};
+	};
+	if(day > day2 || day2 < day) {
+		if(month == month2 || month2 < month) {
+			if(year == year2 || year2 < year) {
+				printf("%d/%d/%d is earlier than %d/%d/%d Oh my god those days!",month2,day2,year2,month,day,year);
+			};
+		};
+	};
+	//THE LOGIC OF MONH IN KURAI STUDIOS
+	if(month < month2 || month2 > month) {
+		if(day == day2 || day < day2 || day2 > day || day > day2 || day2> day) {
+			if(year == year2) {
+				printf("%d/%d/%d is earlier than %d/%d/%d month condition",month,day,year,month2,day2,year2);
+			};
+		};
+	};
+	if(month > month2 || month2 < month) {
+		if(day == day2 || day < day2 || day2 > day) {
+			if(year == year2) {
+				printf("%d/%d/%d is earlier than %d/%d/%d month condition",month2,day2,year2,month,day,year);
+			};
+		};
+	};
 	return 0;
 }
